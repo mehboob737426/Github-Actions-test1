@@ -4,6 +4,7 @@ print("hello world")
 def welcome():
     print("welcome to MMM")
 
+
 def welcome2():
     print("welcome to MMM 2")
 
